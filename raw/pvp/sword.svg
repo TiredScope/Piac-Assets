@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 8.4666665 8.4666666"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="sword.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showborder="true"
+     inkscape:zoom="16"
+     inkscape:cx="11.59375"
+     inkscape:cy="16.875"
+     inkscape:window-width="1920"
+     inkscape:window-height="1032"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#696969;fill-opacity:1;stroke:#000000;stroke-width:0.631564"
+       d="M 4.6696848,2.5279024 C 4.1445821,3.0528385 2.854491,4.674116 2.854491,4.674116 L 2.0030158,3.884763 c 0,0 -0.4416473,-0.5048464 -0.7397691,-0.2264205 C 0.96512525,3.936768 1.4558278,4.405259 1.4558278,4.405259 L 2.4567816,5.4329048 1.3357133,6.553973 c 0,0 -0.3129845,0.3149256 -0.032197,0.5911583 0.2807893,0.2762313 0.5817214,-0.02276 0.5817214,-0.02276 L 3.0063062,6.0013028 4.033952,7.0022566 c 0,0 0.4684905,0.4907029 0.7469165,0.1925811 C 5.0592942,6.896716 4.5544479,6.4550687 4.5544479,6.4550687 L 3.730556,5.6035939 c 0,0 1.6418603,-1.3389363 2.1667966,-1.864039 0.5249361,-0.5251026 1.1658327,-2.4378268 1.1658327,-2.4378268 0,0 -1.8683979,0.701238 -2.3935005,1.2261743 z"
+       id="path1"
+       sodipodi:nodetypes="zcczccczccczcczcz" />
+  </g>
+</svg>
